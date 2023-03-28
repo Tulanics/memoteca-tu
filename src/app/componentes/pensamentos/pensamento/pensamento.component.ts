@@ -1,3 +1,4 @@
+import { Pensamento } from './../pensamento';
 import { Component, Input, OnInit } from '@angular/core';
 
 @Component({
@@ -9,7 +10,8 @@ export class PensamentoComponent implements OnInit {
 
   //atributo
   //@Input - Este comando informa para o componente "filho" que passará a receber informações do componente "pai".
-  @Input() pensamento = {
+  @Input() pensamento: Pensamento = {
+    id: 0,
     conteudo: 'I love Angular',
     autoria: 'Tulinha',
     modelo: 'modelo3'
