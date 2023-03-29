@@ -1,22 +1,40 @@
 {
   "pensamentos": [
-      {
-          "id": 1,
-          "conteudo": "Feito com banxo de dados json-server",
-          "autoria": "Tuli",
-          "modelo": "modelo1"
-      },
-      {
-          "id": 2,
-          "conteudo": "Estudando Angular",
-          "autoria": "Dev Alura",
-          "modelo": "modelo2"
-      },
-      {
-          "id": 3,
-          "conteudo": "Angular é o melhor",
-          "autoria": "Dev Alura",
-          "modelo": "modelo3"
-      }
+    {
+      "id": 1,
+      "conteudo": "Feito com banxo de dados json-server",
+      "autoria": "Tuli",
+      "modelo": "modelo1"
+    },
+    {
+      "id": 2,
+      "conteudo": "Estudando Angular",
+      "autoria": "Dev Alura",
+      "modelo": "modelo2"
+    },
+    {
+      "id": 3,
+      "conteudo": "Angular é o melhor",
+      "autoria": "Dev Alura",
+      "modelo": "modelo3"
+    },
+    {
+      "conteudo": "Novo pensamento cadastrado depois de criada a service",
+      "autoria": "Tulinha",
+      "modelo": "modelo1",
+      "id": 4
+    },
+    {
+      "conteudo": "pensamento depois de rota adicionada",
+      "autoria": "Tulinha",
+      "modelo": "modelo1",
+      "id": 5
+    },
+    {
+      "conteudo": "Eu amo a minha pretona mais que tudo!",
+      "autoria": "Tulinha",
+      "modelo": "modelo3",
+      "id": 6
+    }
   ]
 }
