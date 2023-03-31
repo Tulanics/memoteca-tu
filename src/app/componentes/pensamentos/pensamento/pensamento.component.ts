@@ -12,8 +12,8 @@ export class PensamentoComponent implements OnInit {
   //@Input - Este comando informa para o componente "filho" que passará a receber informações do componente "pai".
   @Input() pensamento: Pensamento = {
     id: 0,
-    conteudo: 'I love Angular',
-    autoria: 'Tulinha',
+    conteudo: '',
+    autoria: '',
     modelo: 'modelo3'
   }
   constructor() { }

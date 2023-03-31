@@ -16,9 +16,10 @@ export class CriarPensamentoComponent implements OnInit {
     modelo: 'modelo3'
   }
 
-  constructor(private service: PensamentoService,
-              private router: Router
-    ) { }
+  constructor(
+    private service: PensamentoService,
+    private router: Router
+  ) { }
 
   ngOnInit(): void {
   }
