@@ -8,9 +8,9 @@
     },
     {
       "id": 2,
-      "conteudo": "Estudando Angular",
-      "autoria": "Dev Alura",
-      "modelo": "modelo2"
+      "conteudo": "Estudando Angular editado",
+      "autoria": "dev alura editado",
+      "modelo": "modelo3"
     },
     {
       "conteudo": "Novo pensamento cadastrado depois de criada a service",
@@ -25,28 +25,10 @@
       "id": 5
     },
     {
-      "conteudo": "Eu amo a minha pretona mais que tudo!",
-      "autoria": "Tulinha",
-      "modelo": "modelo1",
-      "id": 6
-    },
-    {
       "conteudo": "EDITEI O PENSAMENTO!!!.Mussum Ipsum, cacilds vidis litro abertis. Pra lá , depois divoltis porris, paradis.Interessantiss quisso pudia ce receita de bolis, mais bolis eu num gostis.Suco de cevadiss, é um leite divinis, qui tem lupuliz, matis, aguis e fermentis.Mauris nec dolor in eros commodo tempor. Aenean aliquam molestie leo, vitae iaculis nisl.  Sapien in monti palavris qui num significa nadis i pareci latim.Todo mundo vê os porris que eu tomo, mas ninguém vê os tombis que eu levo!Admodum accumsan disputationi eu sit. Vide electram sadipscing et per.Praesent malesuada urna nisi, quis volutpat erat hendrerit non. Nam vulputate dapibus.",
       "autoria": "Mussum Ipsum",
       "modelo": "modelo2",
       "id": 7
-    },
-    {
-      "conteudo": "digitar pensamento 32115646 @!@#%$",
-      "autoria": "cn bdfbg234982 #$!#\"$",
-      "modelo": "modelo2",
-      "id": 8
-    },
-    {
-      "conteudo": "",
-      "autoria": "",
-      "modelo": "modelo3",
-      "id": 9
     }
   ]
 }
