@@ -12,6 +12,7 @@ import { ListarPensamentosComponent } from './componentes/pensamentos/listar-pen
 import { PensamentoComponent } from './componentes/pensamentos/pensamento/pensamento.component';
 import { ExcluirPensamentosComponent } from './componentes/pensamentos/excluir-pensamentos/excluir-pensamentos.component';
 import { EditarPensamentoComponent } from './componentes/pensamentos/editar-pensamento/editar-pensamento.component';
+import { BotaoCarregarMaisComponent } from './componentes/pensamentos/listar-pensamento/botao-carregar-mais/botao-carregar-mais.component';
 
 @NgModule({ //decorator
   declarations: [
@@ -22,7 +23,8 @@ import { EditarPensamentoComponent } from './componentes/pensamentos/editar-pens
     ListarPensamentosComponent,
     PensamentoComponent,
     ExcluirPensamentosComponent,
-    EditarPensamentoComponent
+    EditarPensamentoComponent,
+    BotaoCarregarMaisComponent
   ],
   imports: [
     BrowserModule,

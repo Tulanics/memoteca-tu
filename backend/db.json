@@ -1,34 +1,81 @@
 {
   "pensamentos": [
     {
-      "id": 1,
       "conteudo": "Feito com banxo de dados json-server",
       "autoria": "Tuli",
-      "modelo": "modelo3"
+      "modelo": "modelo3",
+      "id": 1,
+      "favorito": false
     },
     {
-      "id": 2,
       "conteudo": "Estudando Angular editado",
       "autoria": "dev alura editado",
-      "modelo": "modelo3"
+      "modelo": "modelo3",
+      "id": 2,
+      "favorito": false
     },
     {
       "conteudo": "Novo pensamento cadastrado depois de criada a service",
       "autoria": "Tulinha",
       "modelo": "modelo1",
-      "id": 4
+      "id": 4,
+      "favorito": false
     },
     {
       "conteudo": "pensamento depois de rota adicionada",
       "autoria": "Tulinha",
       "modelo": "modelo3",
-      "id": 5
+      "id": 5,
+      "favorito": false
     },
     {
       "conteudo": "EDITEI O PENSAMENTO!!!.Mussum Ipsum, cacilds vidis litro abertis. Pra lá , depois divoltis porris, paradis.Interessantiss quisso pudia ce receita de bolis, mais bolis eu num gostis.Suco de cevadiss, é um leite divinis, qui tem lupuliz, matis, aguis e fermentis.Mauris nec dolor in eros commodo tempor. Aenean aliquam molestie leo, vitae iaculis nisl.  Sapien in monti palavris qui num significa nadis i pareci latim.Todo mundo vê os porris que eu tomo, mas ninguém vê os tombis que eu levo!Admodum accumsan disputationi eu sit. Vide electram sadipscing et per.Praesent malesuada urna nisi, quis volutpat erat hendrerit non. Nam vulputate dapibus.",
       "autoria": "Mussum Ipsum",
       "modelo": "modelo2",
-      "id": 7
+      "id": 7,
+      "favorito": false
+    },
+    {
+      "conteudo": "pensamento 1 pra testar o botão carrega mais ",
+      "autoria": "tulinha",
+      "modelo": "modelo2",
+      "id": 8,
+      "favorito": false
+    },
+    {
+      "conteudo": "pensamento 2 pra testar o botao carrega mais",
+      "autoria": "mussum ipsum",
+      "modelo": "modelo3",
+      "id": 9,
+      "favorito": false
+    },
+    {
+      "conteudo": "mais pensamento de teste",
+      "autoria": "tuli",
+      "modelo": "modelo3",
+      "id": 10,
+      "favorito": false
+    },
+    {
+      "conteudo": "mais pensamento de teste vou aparacer qdo for apertado o botao carrega mais",
+      "autoria": "alura",
+      "modelo": "modelo1",
+      "id": 11,
+      "favorito": false
+    },
+    {
+      "conteudo": "Na volta a gente compra",
+      "autoria": "mãe",
+      "modelo": "modelo2",
+      "favorito": true,
+      "id": 12
+    },
+    {
+      "conteudo": "Na minha maquina funciona! ;)",
+      "autoria": "dev infame",
+      "modelo": "modelo3",
+      "favorito": true,
+      "id": 13
     }
   ]
 }
